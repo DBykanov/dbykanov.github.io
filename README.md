@@ -1,51 +1,56 @@
 Privacy Policy for RealPrice Extension
-Last updated: August 18, 2026
+Last updated: August 27, 2026
 
-This Privacy Policy describes how the "RealPrice" browser extension handles information. We value your privacy and strive for complete transparency.
+This Privacy Policy describes how the "RealPrice" browser extension handles information.
 
-1. Information Collection
-The RealPrice extension is designed to help users track price dynamics on the Rozetka.com.ua website. To perform its function, the Extension reads only the URL of the currently open product page and its public data (including application/ld+json microdata). This is strictly necessary to identify the product SKU and display its price history.
+1. What the extension reads
+The extension is active only on product pages of rozetka.com.ua. On such a page it reads the page address and publicly available product information (for example, the product title and the current price).
 
-2. What We DO NOT Collect
-The extension does not collect, store, or share with third parties:
+2. What the extension sends
+To display a price history, the extension sends that product information to our own server, which returns price history data.
 
-    Personal data (names, emails, phone numbers, passwords).
+No identifier of you or your browser is sent. There is no account, no login, and no advertising or analytics identifier. Requests carry no cookies.
 
-    Payment data (credit card numbers).
+3. What we DO NOT collect
+The extension does not collect, store or share with third parties:
+- Personal data of the user (names, emails, phone numbers, passwords).
+- Payment data (card numbers, transactions).
+- Your activity on any website other than product pages of rozetka.com.ua.
+- Cookies or session data of any marketplace.
 
-    Browsing history of other websites.
+We do not sell or transfer data to third parties, and we do not use it for advertising, profiling or creditworthiness assessment.
 
-    Session data or cookies from marketplaces.
+4. Permissions
+The extension requests access to rozetka.com.ua, to read product pages and display the chart, and to our server, to request price history. No other permissions are requested. All extension code ships inside the package; no remote code is loaded or executed.
 
-3. Data Security
-Currently, the RealPrice extension operates entirely locally within your browser. All technical processes comply with the WebExtensions Manifest V3 security standards.
+5. Contact
+Questions about this Privacy Policy: realprice.support@gmail.com
 
-4. Contact
-If you have any questions regarding this Privacy Policy, please contact us at:
-Email: realprice.support@gmail.com
 
 Политика конфиденциальности расширения RealPrice
-Дата последнего обновления: 18 августа 2026 г.
+Дата последнего обновления: 27 августа 2026 г.
 
-Настоящая Политика конфиденциальности описывает, как расширение для браузера «RealPrice» работает с информацией. Мы ценим вашу конфиденциальность и стремимся к полной прозрачности.
+Настоящая Политика конфиденциальности описывает, как расширение для браузера «RealPrice» работает с информацией.
 
-1. Сбор информации
-Расширение RealPrice разработано для помощи пользователям в отслеживании динамики цен на товары на сайте Rozetka.com.ua. Для выполнения своей функции Расширение считывает только URL-адрес открытой страницы товара и его публичные данные (включая микроразметку application/ld+json). Это необходимо исключительно для идентификации артикула (SKU) товара и отображения его истории цен.
+1. Что расширение считывает
+Расширение работает только на страницах товаров сайта rozetka.com.ua. На такой странице оно считывает адрес страницы и общедоступную информацию о товаре(например, название товара, текущую цену)
 
-2. Какую информацию мы НЕ собираем
-Расширение не собирает, не хранит и не передает третьим лицам:
+2. Что расширение передаёт
+Чтобы показать динамику цены, расширение отправляет эту информацию о товаре на наш собственный сервер, который возвращает данные об истории цены.
 
-    Персональные данные (имена, email, телефоны, пароли).
+Никакие идентификаторы вас или вашего браузера не передаются. Нет учётных записей, авторизации, рекламных и аналитических идентификаторов. Запросы уходят без куки-файлов.
 
-    Платежные данные (номера карт).
+3. Какую информацию мы НЕ собираем
+Расширение не собирает, не хранит и не передаёт третьим лицам:
+- Персональные данные пользователя (имена, email, телефоны, пароли).
+- Платёжные данные (номера карт, транзакции).
+- Вашу активность на любых сайтах, кроме страниц товаров rozetka.com.ua.
+- Куки-файлы и данные сессий маркетплейсов.
 
-    Историю посещений других сайтов.
+Мы не продаём и не передаём данные третьим лицам и не используем их для рекламы, профилирования или оценки кредитоспособности.
 
-    Данные сессий или куки-файлы маркетплейсов.
+4. Разрешения
+Расширение запрашивает доступ к rozetka.com.ua, чтобы читать страницы товаров и показывать график, и к нашему серверу, чтобы запрашивать историю цены. Других разрешений оно не запрашивает. Весь код расширения поставляется внутри пакета; удалённый код не загружается и не выполняется.
 
-3. Безопасность данных
-В настоящее время расширение RealPrice работает полностью локально в вашем браузере. Все технические процессы соответствуют стандартам безопасности WebExtensions Manifest V3.
-
-4. Контакты
-Если у вас есть вопросы относительно настоящей Политики конфиденциальности, пожалуйста, свяжитесь с нами:
-Email: realprice.support@gmail.com
+5. Контакты
+Вопросы по политике конфиденциальности: realprice.support@gmail.com
