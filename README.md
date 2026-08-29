@@ -20,7 +20,7 @@ The extension does not collect, store or share with third parties:
 
 - Personal data of the user (names, emails, phone numbers, passwords).
 - Payment data (card numbers, transactions).
-- Your activity on any website other than product pages of rozetka.com.ua.
+- Your activity on any website
 - Cookies or session data of any marketplace.
 
 We do not sell or transfer data to third parties, and we do not use it for advertising, profiling or creditworthiness assessment.
@@ -57,7 +57,7 @@ Questions about this Privacy Policy: realprice.support@gmail.com
 
 - Персональные данные пользователя (имена, email, телефоны, пароли).
 - Платёжные данные (номера карт, транзакции).
-- Вашу активность на любых сайтах, кроме страниц товаров rozetka.com.ua.
+- Вашу активность на любых сайтах
 - Куки-файлы и данные сессий маркетплейсов.
 
 Мы не продаём и не передаём данные третьим лицам и не используем их для рекламы, профилирования или оценки кредитоспособности.
